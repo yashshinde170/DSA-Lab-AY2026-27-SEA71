@@ -1,5 +1,4 @@
-Student Information
-Name: Yash Santosh Shinde
+Student Name: Yash Santosh Shinde
 Roll Number: SEA71
 Division: A
 Batch: D
