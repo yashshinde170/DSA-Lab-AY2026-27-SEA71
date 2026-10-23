@@ -1,6 +1,7 @@
-/*Name : YAsh Santosh Shinde
-Roll NO:- SEA71
-Code:Graph traversal for campus navigation using bfs and dfs*/
+// Name: Yash Santosh Shinde
+// Roll No.: SEA71
+// Practical No. 09
+//Code:Graph traversal for campus navigation using bfs and dfs 
 
 #include <stdio.h>
 
