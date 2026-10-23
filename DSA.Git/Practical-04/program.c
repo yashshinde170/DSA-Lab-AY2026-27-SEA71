@@ -1,3 +1,7 @@
+// Name: Yash Santosh Shinde
+// Roll No.: SEA71
+// Practical No. 04
+
 #include <stdio.h>
 #define MAX 32
 int stack[MAX];
