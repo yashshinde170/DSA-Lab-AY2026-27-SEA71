@@ -1,6 +1,6 @@
 // Name: Yash Santosh Shinde
 // Roll No.: SEA71
-// Practical No. 1
+// Practical No. 1 
 // Program to display different patterns using numbers, alphabets, and asterisks.
 
 #include <stdio.h>
