@@ -1,3 +1,7 @@
+// Name: Yash Santosh Shinde
+// Roll No.: SEA71
+// Practical No. 06
+
 #include <stdio.h>
 #define SIZE 5
 
