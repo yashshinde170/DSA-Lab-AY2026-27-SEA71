@@ -1,3 +1,7 @@
+// Name: Yash Santosh Shinde
+// Roll No.: SEA71
+// Practical No. 02
+
 #include <stdio.h>
 typedef struct
 {
