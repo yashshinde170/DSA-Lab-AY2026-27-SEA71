@@ -1,3 +1,7 @@
+// Name: Yash Santosh Shinde
+// Roll No.: SEA71
+// Practical No. 05
+
 #include <stdio.h>
 #define MAX 5
 int queue[MAX];
