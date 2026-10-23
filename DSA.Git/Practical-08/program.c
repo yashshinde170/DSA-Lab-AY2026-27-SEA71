@@ -1,3 +1,7 @@
+// Name: Yash Santosh Shinde
+// Roll No.: SEA71
+// Practical No. 08
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
