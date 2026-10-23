@@ -1,3 +1,11 @@
+// Name: Yash Santosh Shinde
+// Roll No.: SEA71
+// Practical No. 07
+
+// Name: Yash Santosh Shinde
+// Roll No.: SEA71
+// Practical No. 07
+
 #include <stdio.h>
 #include <stdlib.h>
 typedef struct SLL
